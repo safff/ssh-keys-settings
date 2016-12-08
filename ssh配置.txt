@@ -1,4 +1,4 @@
-github设置添加SSH
+﻿github设置添加SSH --
 
 很多朋友在用github管理项目的时候，都是直接使用https url克隆到本地，当然也有有些人使用 SSH url 克隆到本地。然而，为什么绝大多数人会使用https url克隆呢？
 
